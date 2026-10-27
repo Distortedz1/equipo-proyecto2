@@ -1,4 +1,5 @@
 # Proyecto del equipo
-Nombre del proyecto: por definir
+Nombre del proyecto: Bamba
 ## Juanma y Laura
 prueba
+- Bruno
