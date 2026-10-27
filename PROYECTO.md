@@ -1,5 +1,5 @@
 # Proyecto del equipo
-Nombre del proyecto: Camaron
+Nombre del proyecto: Bar Manolo
 ## Juanma y Laura
 prueba
-JuanMa
+Laura
