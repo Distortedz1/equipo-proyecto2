@@ -1,4 +1,5 @@
 # Proyecto del equipo
-Nombre del proyecto: por definir
+Nombre del proyecto: Bar Manolo
 ## Juanma y Laura
 prueba
+Laura
